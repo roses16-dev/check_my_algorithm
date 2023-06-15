@@ -11,6 +11,3 @@ def solution(my_string):
         answer += c
 
     return answer
-
-
-print(solution("bus"))
