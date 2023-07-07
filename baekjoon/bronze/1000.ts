@@ -1,3 +1,6 @@
+// 2023.07.06
+// A+B
+
 import { readFileSync } from 'fs';
 
 const inputs: string[] = readFileSync('/dev/stdin').toString().trim().split(' ');

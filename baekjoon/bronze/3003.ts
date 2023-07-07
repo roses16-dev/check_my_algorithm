@@ -1,3 +1,6 @@
+// 2023.07.06
+// 킹, 퀸, 룩, 비숍, 나이트, 폰
+
 import { readFileSync } from 'fs';
 
 const inputs: number[] = readFileSync('/dev/stdin').toString().trim().split(' ').map(Number);
